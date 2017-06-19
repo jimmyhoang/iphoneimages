@@ -65,10 +65,6 @@
 				FF9366FE1EF84F0B00AFB1C2 /* ViewController.h */,
 				FF9366FF1EF84F0B00AFB1C2 /* ViewController.m */,
 				FF9367011EF84F0B00AFB1C2 /* Main.storyboard */,
-				FF9367071EF84F0B00AFB1C2 /* Assets.xcassets */,
-				FF9367091EF84F0B00AFB1C2 /* LaunchScreen.storyboard */,
-				FF93670C1EF84F0B00AFB1C2 /* Info.plist */,
-				FF9367041EF84F0B00AFB1C2 /* iphoneimages.xcdatamodeld */,
 				FF9366F81EF84F0B00AFB1C2 /* Supporting Files */,
 			);
 			path = iphoneimages;
@@ -77,6 +73,10 @@
 		FF9366F81EF84F0B00AFB1C2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FF9367071EF84F0B00AFB1C2 /* Assets.xcassets */,
+				FF9367091EF84F0B00AFB1C2 /* LaunchScreen.storyboard */,
+				FF93670C1EF84F0B00AFB1C2 /* Info.plist */,
+				FF9367041EF84F0B00AFB1C2 /* iphoneimages.xcdatamodeld */,
 				FF9366F91EF84F0B00AFB1C2 /* main.m */,
 			);
 			name = "Supporting Files";
